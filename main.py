@@ -14,7 +14,7 @@ discord_token = os.getenv("DISCORD_TOKEN")
 if discord_token is None:
     discord_token = ""
 
-channel_id = os.getenv("TEST_CHANNEL_ID")
+channel_id = os.getenv("CHANNEL_ID")
 if channel_id is None:
     channel_id = ""
 channel_id = int(channel_id)
