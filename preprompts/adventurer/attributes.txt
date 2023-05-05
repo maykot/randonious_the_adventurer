@@ -1,0 +1,1 @@
+Based on the description above, choose values in the range from 1 to 10 for the following character attributes: intelligence, dexterity, vitality, strength.

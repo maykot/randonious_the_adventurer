@@ -1,0 +1,7 @@
+Could you please write a concise, two-paragraph description for a fictional fantasy RPG character.
+The character lives in a medieval hard fantasy world.
+Please make sure to come up with a name, a class and a race for the character.
+Give a short outline of the character's personality and any notable deeds they might have accomplished.
+
+Do not use any meta-commentary or placeholders. Do not use any tags to indicate characters, users or assistants.
+Make sure the description is diegetic, so don't add any "AI assistant" commentary.
